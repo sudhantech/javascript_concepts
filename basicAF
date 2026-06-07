@@ -1,0 +1,3 @@
+Questionn : Did you finish your homework?
+-if the answer is "Yes" print"Great job!"
+-if the answer is"no" print "Finish your homework before playing"
